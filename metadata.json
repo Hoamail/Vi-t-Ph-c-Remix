@@ -1,0 +1,6 @@
+{
+  "name": "Việt Phục Remix",
+  "description": "Nền tảng khám phá và phối trang phục truyền thống Việt Nam cho Gen Z với bảo chứng văn hoá và tư liệu xác thực lịch sử - AI Arena Vietnam 2026.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
